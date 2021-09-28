@@ -30,28 +30,28 @@ export const projectsData = [
     id: nanoid(),
     img: 'project.jpg',
     title: 'Troef Coffee',
-    info: '',
+    info: 'Located in Samarinda, Troef Coffee was born with the purpose of being different from local and traditional coffee shops, with a quality of taste the specialty coffee and welcoming environment full of innovation. Therefore, the brand needed to demonstrate it\'\s values, without neglecting it\'\s visual appeal.',
     info2: '',
     url: 'https://www.instagram.com/troef_coffee',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
     img: 'project3.jpg',
-    title: 'Instinct Skateboard',
-    info: '',
+    title: 'Instinct Footwear',
+    info: 'Instinct Footwear is a brand that focuses on the skateboards market, and this brand is also owned by a skateboarder. The first skate shoe brand that was born in the city of Samarinda has the goal of making durable shoes, simple designs but future proof style, and also affordable.',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://www.instagram.com/instinctfootwearco',
+    repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
     img: 'project2.jpg',
     title: 'Blah Skateboard',
-    info: '',
+    info: 'Blah Skateboard is skateboarding equipment that was born with a fresh, fun, and colorful design. Blah rise and shine in Samarinda with international standard product quality, and designated as one of the best local brands that is able to meet the needs of skateboarding enthusiasts.',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://www.instagram.com/blahskateboards',
+    repo: '', // if no repo, the button will not show up
   },
 ];
 
